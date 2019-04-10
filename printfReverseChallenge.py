@@ -1,6 +1,5 @@
 """
 Method reproduce the C++ printf method and prints numbers from n variable in reverse order.
-Code is in Python.
 """
 #Recreation of C++ printf method
 def printf(format, *values):
