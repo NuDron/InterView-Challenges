@@ -1,9 +1,8 @@
 """
-Method reproduce the Java printf method and prints numbers from n variable in reverse order.
-
+Method reproduce the C++ printf method and prints numbers from n variable in reverse order.
+Code is in Python.
 """
-import sys
-
+#Recreation of C++ printf method
 def printf(format, *values):
     print(format % values )
 
